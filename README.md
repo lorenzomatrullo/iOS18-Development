@@ -1,5 +1,5 @@
 # iOS 18 Development
-A hands-on SwiftUI course built entirely inside an Xcode project. 37 self-contained lessons — open any file, read the code, run the preview.
+A hands-on SwiftUI course built entirely inside an Xcode project. 37 self-contained lessons – open any file, read the code, run the preview.
 
 <br>
 
